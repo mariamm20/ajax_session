@@ -1,0 +1,17 @@
+body{
+    padding :0 50px 0 50px ;
+    text-align: center;
+}
+div{
+    position: relative;
+    top: 20px;
+    font-size: 30px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+img{
+    width: 50% ;
+    
+}
